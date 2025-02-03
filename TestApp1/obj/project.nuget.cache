@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxamieFk6Wo=",
+  "dgSpecHash": "sL7k4vAoaMc=",
   "success": true,
-  "projectFilePath": "D:\\InsideWeb\\InsideDotNetCore\\TestApp1\\TestApp1.csproj",
+  "projectFilePath": "/workspaces/InsideDotNetCore/TestApp1/TestApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
