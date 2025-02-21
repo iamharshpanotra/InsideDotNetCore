@@ -1,6 +1,6 @@
 Routing in ASP.NET Core is a fundamental concept that defines how requests are matched to actions in controllers. It plays a crucial role in directing incoming HTTP requests to the appropriate handling code.
 Here's a concise overview of routing concepts in ASP.NET Core:
-
+ 
 ### 1. **Routing Basics**
 - **Endpoints**: The destination for requests, usually defined in controllers or middleware. Each endpoint corresponds to a specific HTTP method (GET, POST, etc.).
 - **URLs**: The formation of URLs determines how routing decisions are made. ASP.NET Core uses pattern matching against the URL paths.
